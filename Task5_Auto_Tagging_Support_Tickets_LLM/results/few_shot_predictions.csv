@@ -1,0 +1,11 @@
+ticket_id,ticket_text,category,few_shot_tags
+1,My internet connection is not working,Internet Issue,"Internet Issue, Technical Issue, App Problem"
+2,I forgot my password and cannot login to my account,Account Login,"Account Login, Technical Issue, Internet Issue"
+3,My payment was declined while making a purchase,Payment Issue,"Payment Issue, Technical Issue, App Problem"
+4,The mobile application crashes when I open it,App Problem,"App Problem, Technical Issue, Internet Issue"
+5,I want to cancel my subscription plan,Subscription,"Technical Issue, Subscription, Internet Issue"
+6,My order has not arrived yet,Delivery Issue,"Technical Issue, Internet Issue, Payment Issue"
+7,I received a damaged product,Product Issue,"Technical Issue, Internet Issue, Payment Issue"
+8,Someone hacked my account and changed my password,Security,"Technical Issue, Internet Issue, Subscription"
+9,I need help updating my profile details,Account Management,"Technical Issue, Internet Issue, Account Login"
+10,The website is showing an unexpected error,Website Error,"Technical Issue, Internet Issue, App Problem"
